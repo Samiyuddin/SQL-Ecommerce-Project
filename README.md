@@ -37,6 +37,6 @@ This project analyzes customer orders, revenue, and product trends using advance
 
 ## Author
 
-Mohamed Mousamoud
-Connect with me on [LinkedIn](www.linkedin.com/in/mohammed-samiyuddin)
+Mohammed Samiyuddin
+Connect with me on : www.linkedin.com/in/mohammed-samiyuddin
 
